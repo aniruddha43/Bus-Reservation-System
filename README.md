@@ -1,4 +1,4 @@
-# Bus-Reservation-System
+# Bus-Reservation-System 
 Bus Reservation System is a preety basic system developed in Django,MySQL,Python, which is designed to automate the online ticket purchasing through an easy online bus booking system.With the bus ticket reservation system you can manage/book reservations, clients data and passengers lists through its Django admin and book tickets effortlessly through the Bus reservation Website.
 
 ---------------Installation instructions for Windows --------
